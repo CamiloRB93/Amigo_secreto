@@ -1,0 +1,1 @@
+El proyecto Amigo Secreto es una sencilla aplicación web que permite a los usuarios ingresar nombres de amigos dentro de un listado y luego realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
